@@ -1,4 +1,3 @@
 # PythonStudy
-# LatPyth
-# LatPyth
-# LatPyth
+
+Starting study 6 Jun 2022
