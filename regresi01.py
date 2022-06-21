@@ -35,6 +35,7 @@ def plot_regression_line(x, y, b):
 	plt.ylabel('y')
 
 	# function to show plot
+	
 	plt.show()
 
 def main():
