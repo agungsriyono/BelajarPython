@@ -2,7 +2,7 @@
 import re
 
 def main():
-	passwd = 'Monyet@1'
+	passwd = 'Moxx@1'
 	reg = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!#%*?&]{6,20}$"
 	
 	# compiling regex

@@ -39,6 +39,6 @@ def validate_email(email):
 		print("{} is Invalid".format(email))
 
 # Driver Code
-validate_email("expectopatronum@gmail.com")
-validate_email("avadakedavra@yahoo.com@")
+validate_email("agung@gmail.com")
+validate_email("ucup@yahoo.com@")
 validate_email("Crucio@.com")
