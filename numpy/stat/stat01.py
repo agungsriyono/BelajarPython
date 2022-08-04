@@ -10,8 +10,6 @@ std = numpy.std(speed)
 variance = numpy.var(speed)
 p95 = numpy.percentile(speed,95)
 
-
-
 print(f'Rata-ratanya : {rata}')
 print(f'Median-nya : {median}')
 print(f'Modus-nya : {modus}')
